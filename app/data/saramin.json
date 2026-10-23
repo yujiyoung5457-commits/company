@@ -1,5 +1,33 @@
 [
   {
+    "id": 90,
+    "company": "(주)넥시클",
+    "position": "UI/UX 및 서비스 기획",
+    "appliedAt": "2026-10-23",
+    "platform": "사람인",
+    "location": null,
+    "salary": null,
+    "companySize": "없음",
+    "jobUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54979718&view_type=search",
+    "status": "unchecked",
+    "memo": "",
+    "companyUrl": null
+  },
+  {
+    "id": 91,
+    "company": "(주)엘엔디씨",
+    "position": "UX/UI·그래픽 디자이너",
+    "appliedAt": "2026-10-23",
+    "platform": "사람인",
+    "location": null,
+    "salary": "연봉 2,700만원",
+    "companySize": "없음",
+    "jobUrl": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55278449&view_type=search",
+    "status": "unchecked",
+    "memo": "",
+    "companyUrl": null
+  },
+  {
     "id": 1,
     "company": "㈜블리비홀딩스",
     "position": "디자이너",
@@ -177,7 +205,7 @@
     "salary": null,
     "companySize": "51명",
     "jobUrl": null,
-    "status": "unchecked",
+    "status": "viewed",
     "memo": "",
     "companyUrl": "https://www.saramin.co.kr/zf_user/company-info/view?csn=ZWdiL1RYWXRxZEpzYVRmZ2pFUlJvdz09"
   },
